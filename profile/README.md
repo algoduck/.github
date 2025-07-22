@@ -13,6 +13,7 @@
 | [`server`](https://github.com/algoduck/algoduck_server) | Spring Boot 기반 API 서버 |
 | [`client`](https://github.com/algoduck/algoduck_client) | React 기반 사용자 인터페이스 |
 | [`judge`](https://github.com/algoduck/algoduck_judge) | FastAPI 기반 채점 서버 (MQ 기반 비동기) |
+| [`test`](https://github.com/algoduck/algoduck_test) | Python 기반 테스트 스크립트 |
 
 ## 기술 스택
 Spring Boot, React, FastAPI, RabbitMQ, MySQL, S3, Docker, Nginx...
