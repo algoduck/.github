@@ -4,7 +4,7 @@
 알고리즘 문제 풀이, 제출, 채점, 실시간 결과 반영까지 가능한 전체 시스템입니다.
 
 ## 시스템 아키텍처
-![구조도](../images/algoduck_system_architecture-algoduck_system_architecture.drawio.png)
+![구조도](../images/algoduck_system_architecture.png)
 
 ## 구성 Repo
 
@@ -16,7 +16,4 @@
 | [`test`](https://github.com/algoduck/algoduck_test) | Python 기반 테스트 스크립트 |
 
 ## 기술 스택
-Spring Boot, React, FastAPI, RabbitMQ, MySQL, S3, Docker, Nginx...
-
-...
-
+Spring Boot, React, Python, RabbitMQ, MySQL, EC2, S3, Docker, Nginx
